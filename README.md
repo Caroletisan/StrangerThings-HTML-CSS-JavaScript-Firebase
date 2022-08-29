@@ -35,5 +35,5 @@ Projeto FRONT-END de STRANGER THINGS - MUNDO INVERTIDO: Criação de uma PÁGINA
 
 
 
-## ◼ Observações 
+## ⬛ ◼ Observações 
 - Projeto disponibilizado pela DIO(Digital Innovation One) na semana Front-End Mundo Invertido e feito apenas para aprendizagem e portfóio
