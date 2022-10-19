@@ -30,10 +30,5 @@ Projeto FRONT-END de STRANGER THINGS - MUNDO INVERTIDO: Criação de uma PÁGINA
     - Integração com o Firebase
 
 
-## 🔗 Links auxiliares
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/)
-
-
-
 ## ◼ Observações 
 - Projeto disponibilizado pela DIO(Digital Innovation One) na semana Front-End Mundo Invertido e feito apenas para aprendizagem e portfóio
